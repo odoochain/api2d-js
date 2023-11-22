@@ -389,3 +389,4 @@ api.abort(); // 主动取消请求
 输出是一个 stream，这里我们只是把它写入本地文件，你也可以自行处理实现更多功能，比如一边生成一边播放。
 
 [更多例子](https://github.com/easychen/api2d-js/pull/3#issuecomment-1498753640)
+[学习资料](https://gofly.v1kf.com/article/41)
